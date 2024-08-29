@@ -344,6 +344,44 @@ z-index: 10;
     cursor: pointer;
      margin:20px 0px;
   }
+ #whatn{
+   background-color: #2d2d2d;
+   width: 80vw;
+   margin:2px 0px;
+   color: antiquewhite;
+
+  }
+  #howm{
+    background-color: #2d2d2d;
+    width: 80vw;
+    margin:2px 0px;
+    color: antiquewhite;
+  }
+  #wherec{
+    background-color: #2d2d2d;
+    width: 80vw;
+    margin:2px 0px;
+    color: antiquewhite;
+  }
+  #howd{
+    background-color: #2d2d2d;
+    width: 80vw;
+    margin:2px 0px;
+    color: antiquewhite;
+  }
+  #whatc{
+    background-color: #2d2d2d;
+    width: 80vw;
+    margin:2px 0px;
+    color: antiquewhite;
+  }
+  #isnet{
+    background-color: #2d2d2d;
+    width: 80vw;
+    margin:2px 0px;
+    color: antiquewhite;
+  }
+ 
 .gray:hover{
 background-color:rgb(91, 87, 87);
 }
@@ -377,6 +415,7 @@ background-color:rgb(91, 87, 87);
     margin-left: 17vw;
     font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
   }
+
 
   .bfooter {
     margin-top: 100px;
